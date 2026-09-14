@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+img{
+    border-radius: 20px;
+    height:30% ;
+    width: 20%;
+}
+.container{
+    margin: auto;
+
+
+}
+h2{
+   transform: translate(-100px);
+   
+
+}
+button{
+    color: black;
+    background-color: aliceblue;
+    height: 50px;
+    width: 12%;
+    border-radius: 25px;
+    margin-right: 158px;
+    font-size: larger;
+
+
+}
